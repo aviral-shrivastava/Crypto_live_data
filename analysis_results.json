@@ -1,0 +1,61 @@
+{
+    "top_5_by_market_cap": [
+        {
+            "Cryptocurrency name": "Bitcoin",
+            "Symbol": "btc",
+            "Current Price (in USD)": 92928,
+            "Market Capitalization": 1842898404229,
+            "24-hour Trading Volume": 66896152282,
+            "Price Change (24-hour, percentage)": 8.18234
+        },
+        {
+            "Cryptocurrency name": "Ethereum",
+            "Symbol": "eth",
+            "Current Price (in USD)": 2446.57,
+            "Market Capitalization": 295028958138,
+            "24-hour Trading Volume": 39956994145,
+            "Price Change (24-hour, percentage)": 9.87603
+        },
+        {
+            "Cryptocurrency name": "XRP",
+            "Symbol": "xrp",
+            "Current Price (in USD)": 2.81,
+            "Market Capitalization": 162718529716,
+            "24-hour Trading Volume": 15977894046,
+            "Price Change (24-hour, percentage)": 24.59807
+        },
+        {
+            "Cryptocurrency name": "Tether",
+            "Symbol": "usdt",
+            "Current Price (in USD)": 0.999678,
+            "Market Capitalization": 142390015560,
+            "24-hour Trading Volume": 128140748113,
+            "Price Change (24-hour, percentage)": 0.01968
+        },
+        {
+            "Cryptocurrency name": "BNB",
+            "Symbol": "bnb",
+            "Current Price (in USD)": 612.99,
+            "Market Capitalization": 89462566960,
+            "24-hour Trading Volume": 1574352748,
+            "Price Change (24-hour, percentage)": 0.64467
+        }
+    ],
+    "average_price": 5873.270586891999,
+    "highest_change": {
+        "Cryptocurrency name": "Cardano",
+        "Symbol": "ada",
+        "Current Price (in USD)": 1.065,
+        "Market Capitalization": 38347352244,
+        "24-hour Trading Volume": 8138635866,
+        "Price Change (24-hour, percentage)": 60.86809
+    },
+    "lowest_change": {
+        "Cryptocurrency name": "Litecoin",
+        "Symbol": "ltc",
+        "Current Price (in USD)": 122.58,
+        "Market Capitalization": 9274972881,
+        "24-hour Trading Volume": 1792969414,
+        "Price Change (24-hour, percentage)": -0.17309
+    }
+}

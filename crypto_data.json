@@ -1,0 +1,402 @@
+[
+    {
+        "Cryptocurrency name": "Bitcoin",
+        "Symbol": "btc",
+        "Current Price (in USD)": 92928,
+        "Market Capitalization": 1842898404229,
+        "24-hour Trading Volume": 66896152282,
+        "Price Change (24-hour, percentage)": 8.18234
+    },
+    {
+        "Cryptocurrency name": "Ethereum",
+        "Symbol": "eth",
+        "Current Price (in USD)": 2446.57,
+        "Market Capitalization": 295028958138,
+        "24-hour Trading Volume": 39956994145,
+        "Price Change (24-hour, percentage)": 9.87603
+    },
+    {
+        "Cryptocurrency name": "XRP",
+        "Symbol": "xrp",
+        "Current Price (in USD)": 2.81,
+        "Market Capitalization": 162718529716,
+        "24-hour Trading Volume": 15977894046,
+        "Price Change (24-hour, percentage)": 24.59807
+    },
+    {
+        "Cryptocurrency name": "Tether",
+        "Symbol": "usdt",
+        "Current Price (in USD)": 0.999678,
+        "Market Capitalization": 142390015560,
+        "24-hour Trading Volume": 128140748113,
+        "Price Change (24-hour, percentage)": 0.01968
+    },
+    {
+        "Cryptocurrency name": "BNB",
+        "Symbol": "bnb",
+        "Current Price (in USD)": 612.99,
+        "Market Capitalization": 89462566960,
+        "24-hour Trading Volume": 1574352748,
+        "Price Change (24-hour, percentage)": 0.64467
+    },
+    {
+        "Cryptocurrency name": "Solana",
+        "Symbol": "sol",
+        "Current Price (in USD)": 169.91,
+        "Market Capitalization": 86254837427,
+        "24-hour Trading Volume": 14069763641,
+        "Price Change (24-hour, percentage)": 18.52151
+    },
+    {
+        "Cryptocurrency name": "USDC",
+        "Symbol": "usdc",
+        "Current Price (in USD)": 0.999799,
+        "Market Capitalization": 56349293701,
+        "24-hour Trading Volume": 11503065679,
+        "Price Change (24-hour, percentage)": -0.0001
+    },
+    {
+        "Cryptocurrency name": "Cardano",
+        "Symbol": "ada",
+        "Current Price (in USD)": 1.065,
+        "Market Capitalization": 38347352244,
+        "24-hour Trading Volume": 8138635866,
+        "Price Change (24-hour, percentage)": 60.86809
+    },
+    {
+        "Cryptocurrency name": "Dogecoin",
+        "Symbol": "doge",
+        "Current Price (in USD)": 0.227976,
+        "Market Capitalization": 33753475973,
+        "24-hour Trading Volume": 3450573756,
+        "Price Change (24-hour, percentage)": 10.76003
+    },
+    {
+        "Cryptocurrency name": "Lido Staked Ether",
+        "Symbol": "steth",
+        "Current Price (in USD)": 2445.33,
+        "Market Capitalization": 22969549234,
+        "24-hour Trading Volume": 69849427,
+        "Price Change (24-hour, percentage)": 9.90302
+    },
+    {
+        "Cryptocurrency name": "TRON",
+        "Symbol": "trx",
+        "Current Price (in USD)": 0.242437,
+        "Market Capitalization": 20876565901,
+        "24-hour Trading Volume": 844156189,
+        "Price Change (24-hour, percentage)": 3.89889
+    },
+    {
+        "Cryptocurrency name": "Wrapped Bitcoin",
+        "Symbol": "wbtc",
+        "Current Price (in USD)": 92702,
+        "Market Capitalization": 11986649551,
+        "24-hour Trading Volume": 837860634,
+        "Price Change (24-hour, percentage)": 8.22323
+    },
+    {
+        "Cryptocurrency name": "Hedera",
+        "Symbol": "hbar",
+        "Current Price (in USD)": 0.260226,
+        "Market Capitalization": 10923990243,
+        "24-hour Trading Volume": 1185856230,
+        "Price Change (24-hour, percentage)": 4.56924
+    },
+    {
+        "Cryptocurrency name": "Chainlink",
+        "Symbol": "link",
+        "Current Price (in USD)": 16.88,
+        "Market Capitalization": 10783813433,
+        "24-hour Trading Volume": 1107208488,
+        "Price Change (24-hour, percentage)": 14.11259
+    },
+    {
+        "Cryptocurrency name": "Stellar",
+        "Symbol": "xlm",
+        "Current Price (in USD)": 0.344608,
+        "Market Capitalization": 10575762714,
+        "24-hour Trading Volume": 753982563,
+        "Price Change (24-hour, percentage)": 6.05486
+    },
+    {
+        "Cryptocurrency name": "Wrapped stETH",
+        "Symbol": "wsteth",
+        "Current Price (in USD)": 2922.87,
+        "Market Capitalization": 10406233051,
+        "24-hour Trading Volume": 41280684,
+        "Price Change (24-hour, percentage)": 9.83504
+    },
+    {
+        "Cryptocurrency name": "Avalanche",
+        "Symbol": "avax",
+        "Current Price (in USD)": 24.53,
+        "Market Capitalization": 10167227889,
+        "24-hour Trading Volume": 875036957,
+        "Price Change (24-hour, percentage)": 11.42326
+    },
+    {
+        "Cryptocurrency name": "Sui",
+        "Symbol": "sui",
+        "Current Price (in USD)": 3.09,
+        "Market Capitalization": 9814278723,
+        "24-hour Trading Volume": 1498691611,
+        "Price Change (24-hour, percentage)": 8.04827
+    },
+    {
+        "Cryptocurrency name": "Litecoin",
+        "Symbol": "ltc",
+        "Current Price (in USD)": 122.58,
+        "Market Capitalization": 9274972881,
+        "24-hour Trading Volume": 1792969414,
+        "Price Change (24-hour, percentage)": -0.17309
+    },
+    {
+        "Cryptocurrency name": "LEO Token",
+        "Symbol": "leo",
+        "Current Price (in USD)": 10.0,
+        "Market Capitalization": 9245950466,
+        "24-hour Trading Volume": 6904444,
+        "Price Change (24-hour, percentage)": 2.12763
+    },
+    {
+        "Cryptocurrency name": "Shiba Inu",
+        "Symbol": "shib",
+        "Current Price (in USD)": 1.453e-05,
+        "Market Capitalization": 8560798402,
+        "24-hour Trading Volume": 398969828,
+        "Price Change (24-hour, percentage)": 6.11259
+    },
+    {
+        "Cryptocurrency name": "Toncoin",
+        "Symbol": "ton",
+        "Current Price (in USD)": 3.42,
+        "Market Capitalization": 8537557587,
+        "24-hour Trading Volume": 218015082,
+        "Price Change (24-hour, percentage)": 3.59078
+    },
+    {
+        "Cryptocurrency name": "USDS",
+        "Symbol": "usds",
+        "Current Price (in USD)": 0.999866,
+        "Market Capitalization": 7923937860,
+        "24-hour Trading Volume": 84698990,
+        "Price Change (24-hour, percentage)": 0.00451
+    },
+    {
+        "Cryptocurrency name": "Polkadot",
+        "Symbol": "dot",
+        "Current Price (in USD)": 5.11,
+        "Market Capitalization": 7787257827,
+        "24-hour Trading Volume": 395259303,
+        "Price Change (24-hour, percentage)": 9.36266
+    },
+    {
+        "Cryptocurrency name": "MANTRA",
+        "Symbol": "om",
+        "Current Price (in USD)": 7.45,
+        "Market Capitalization": 7263337616,
+        "24-hour Trading Volume": 181831894,
+        "Price Change (24-hour, percentage)": 0.5489
+    },
+    {
+        "Cryptocurrency name": "WETH",
+        "Symbol": "weth",
+        "Current Price (in USD)": 2446.17,
+        "Market Capitalization": 7058062778,
+        "24-hour Trading Volume": 1496855336,
+        "Price Change (24-hour, percentage)": 9.91943
+    },
+    {
+        "Cryptocurrency name": "Hyperliquid",
+        "Symbol": "hype",
+        "Current Price (in USD)": 20.21,
+        "Market Capitalization": 6754691387,
+        "24-hour Trading Volume": 302952487,
+        "Price Change (24-hour, percentage)": 1.34895
+    },
+    {
+        "Cryptocurrency name": "Bitcoin Cash",
+        "Symbol": "bch",
+        "Current Price (in USD)": 326.31,
+        "Market Capitalization": 6475649247,
+        "24-hour Trading Volume": 354691755,
+        "Price Change (24-hour, percentage)": 2.9606
+    },
+    {
+        "Cryptocurrency name": "Bitget Token",
+        "Symbol": "bgb",
+        "Current Price (in USD)": 4.73,
+        "Market Capitalization": 5672844773,
+        "24-hour Trading Volume": 470655587,
+        "Price Change (24-hour, percentage)": 17.0536
+    },
+    {
+        "Cryptocurrency name": "Ethena USDe",
+        "Symbol": "usde",
+        "Current Price (in USD)": 0.999044,
+        "Market Capitalization": 5457578903,
+        "24-hour Trading Volume": 100769861,
+        "Price Change (24-hour, percentage)": 0.05399
+    },
+    {
+        "Cryptocurrency name": "Wrapped eETH",
+        "Symbol": "weeth",
+        "Current Price (in USD)": 2595.65,
+        "Market Capitalization": 5002640084,
+        "24-hour Trading Volume": 28574341,
+        "Price Change (24-hour, percentage)": 9.76997
+    },
+    {
+        "Cryptocurrency name": "Uniswap",
+        "Symbol": "uni",
+        "Current Price (in USD)": 8.02,
+        "Market Capitalization": 4818335203,
+        "24-hour Trading Volume": 325199531,
+        "Price Change (24-hour, percentage)": 7.03591
+    },
+    {
+        "Cryptocurrency name": "WhiteBIT Coin",
+        "Symbol": "wbt",
+        "Current Price (in USD)": 30.73,
+        "Market Capitalization": 4432450037,
+        "24-hour Trading Volume": 86736489,
+        "Price Change (24-hour, percentage)": 16.00222
+    },
+    {
+        "Cryptocurrency name": "Monero",
+        "Symbol": "xmr",
+        "Current Price (in USD)": 229.7,
+        "Market Capitalization": 4237209781,
+        "24-hour Trading Volume": 70600008,
+        "Price Change (24-hour, percentage)": 2.48873
+    },
+    {
+        "Cryptocurrency name": "NEAR Protocol",
+        "Symbol": "near",
+        "Current Price (in USD)": 3.4,
+        "Market Capitalization": 4041403243,
+        "24-hour Trading Volume": 332629437,
+        "Price Change (24-hour, percentage)": 4.46694
+    },
+    {
+        "Cryptocurrency name": "Aptos",
+        "Symbol": "apt",
+        "Current Price (in USD)": 6.42,
+        "Market Capitalization": 3784490996,
+        "24-hour Trading Volume": 302486176,
+        "Price Change (24-hour, percentage)": 2.61542
+    },
+    {
+        "Cryptocurrency name": "Ondo",
+        "Symbol": "ondo",
+        "Current Price (in USD)": 1.17,
+        "Market Capitalization": 3689878584,
+        "24-hour Trading Volume": 358263181,
+        "Price Change (24-hour, percentage)": 14.53871
+    },
+    {
+        "Cryptocurrency name": "Pepe",
+        "Symbol": "pepe",
+        "Current Price (in USD)": 8.53e-06,
+        "Market Capitalization": 3589994225,
+        "24-hour Trading Volume": 1236478077,
+        "Price Change (24-hour, percentage)": 10.30892
+    },
+    {
+        "Cryptocurrency name": "Internet Computer",
+        "Symbol": "icp",
+        "Current Price (in USD)": 7.04,
+        "Market Capitalization": 3392007248,
+        "24-hour Trading Volume": 125660626,
+        "Price Change (24-hour, percentage)": 5.21215
+    },
+    {
+        "Cryptocurrency name": "Dai",
+        "Symbol": "dai",
+        "Current Price (in USD)": 0.999614,
+        "Market Capitalization": 3302917014,
+        "24-hour Trading Volume": 221928825,
+        "Price Change (24-hour, percentage)": -0.00772
+    },
+    {
+        "Cryptocurrency name": "Aave",
+        "Symbol": "aave",
+        "Current Price (in USD)": 214.82,
+        "Market Capitalization": 3242887987,
+        "24-hour Trading Volume": 480387179,
+        "Price Change (24-hour, percentage)": 10.47174
+    },
+    {
+        "Cryptocurrency name": "Official Trump",
+        "Symbol": "trump",
+        "Current Price (in USD)": 16.0,
+        "Market Capitalization": 3201048016,
+        "24-hour Trading Volume": 3762380663,
+        "Price Change (24-hour, percentage)": 18.63373
+    },
+    {
+        "Cryptocurrency name": "Ethereum Classic",
+        "Symbol": "etc",
+        "Current Price (in USD)": 20.42,
+        "Market Capitalization": 3082284590,
+        "24-hour Trading Volume": 196902366,
+        "Price Change (24-hour, percentage)": 6.26574
+    },
+    {
+        "Cryptocurrency name": "sUSDS",
+        "Symbol": "susds",
+        "Current Price (in USD)": 1.041,
+        "Market Capitalization": 2980220643,
+        "24-hour Trading Volume": 1441088,
+        "Price Change (24-hour, percentage)": 0.07841
+    },
+    {
+        "Cryptocurrency name": "Bittensor",
+        "Symbol": "tao",
+        "Current Price (in USD)": 345.38,
+        "Market Capitalization": 2908844366,
+        "24-hour Trading Volume": 215327588,
+        "Price Change (24-hour, percentage)": 1.42646
+    },
+    {
+        "Cryptocurrency name": "OKB",
+        "Symbol": "okb",
+        "Current Price (in USD)": 47.37,
+        "Market Capitalization": 2843123218,
+        "24-hour Trading Volume": 15358683,
+        "Price Change (24-hour, percentage)": 3.85242
+    },
+    {
+        "Cryptocurrency name": "Gate",
+        "Symbol": "gt",
+        "Current Price (in USD)": 22.47,
+        "Market Capitalization": 2828104061,
+        "24-hour Trading Volume": 24944005,
+        "Price Change (24-hour, percentage)": 7.07223
+    },
+    {
+        "Cryptocurrency name": "Coinbase Wrapped BTC",
+        "Symbol": "cbbtc",
+        "Current Price (in USD)": 92885,
+        "Market Capitalization": 2653886189,
+        "24-hour Trading Volume": 499243027,
+        "Price Change (24-hour, percentage)": 8.23948
+    },
+    {
+        "Cryptocurrency name": "Mantle",
+        "Symbol": "mnt",
+        "Current Price (in USD)": 0.768946,
+        "Market Capitalization": 2590173622,
+        "24-hour Trading Volume": 64984958,
+        "Price Change (24-hour, percentage)": 3.64825
+    },
+    {
+        "Cryptocurrency name": "VeChain",
+        "Symbol": "vet",
+        "Current Price (in USD)": 0.03112754,
+        "Market Capitalization": 2522156016,
+        "24-hour Trading Volume": 108173359,
+        "Price Change (24-hour, percentage)": 8.3134
+    }
+]
